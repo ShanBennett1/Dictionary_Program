@@ -1,5 +1,5 @@
 # Dictionary_Program
-The dictionary program reads a disctionary and allows the user to interact with the data. 
+The dictionary program reads a dictionary and allows the user to interact with the data. 
 The program has the following functionalities;
       (1) Search for a word
 			(2) Find words with more than 3 'Z's
